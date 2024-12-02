@@ -34,5 +34,5 @@ for (let i = 0; i < left.length; i++) {
 	part2 += currentLeft * quantityInRightList[currentLeft]
 }
 
-console.log(part1)
-console.log(part2)
+console.log(`Part 1: ${part1}`)
+console.log(`Part 2: ${part2}`)
